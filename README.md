@@ -20,10 +20,10 @@ This programs has been tested on the following.
 MATLAB R2021a 
 
 # Data
-Data used for S system insulin model analysis.
+Data used for S system insulin model analysis is not yet available.
 
 # matfile  
-`.mat` data used for simulation.
+`.mat` data used for simulation is not yet available.
 
 
 # Reference
